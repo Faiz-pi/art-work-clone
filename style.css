@@ -20,8 +20,8 @@ body{
     left:60px;
     display:flex;
     flex-wrap: wrap;
-    column-gap: 20px;
-    row-gap:40px;
+    column-gap: 40px;
+    row-gap:45px;
 }
 .card{
     width:250px;
